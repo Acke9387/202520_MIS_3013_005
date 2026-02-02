@@ -16,10 +16,16 @@ else //if (tossAsInt == 1)
 {
     toss = "Tails";
 }
-Console.WriteLine(toss); // For testing purposes, to see the result of the toss
+//Console.WriteLine(toss); // For testing purposes, to see the result of the toss
 
 Console.WriteLine("Do you want to pick 'Heads' or 'Tails'? <<");
 string userGuess = Console.ReadLine();
+
+while (userGuess.ToLower() != "heads" && userGuess.ToLower() != "tails")
+{
+    Console.WriteLine($"Sorry, '{userGuess}' is not a valid input.  Please guess 'Heads' or 'Tails' <<");
+    userGuess = Console.ReadLine();
+}
 
 Console.WriteLine($"The coin landed on {toss}");
 
