@@ -2,5 +2,6 @@
   <Project Path="Conditional_Example2/Conditional_Example2.csproj" Id="917cc894-c297-4d76-b8d6-df476416d17a" />
   <Project Path="Loops_For/Loops_For.csproj" Id="b7b66726-3dc2-4a39-a153-67e3ee70f883" />
   <Project Path="Loops_While/Loops_While.csproj" Id="efedea88-13c2-4e0f-8230-8c8eada7e2a4" />
+  <Project Path="Stringmanipulation-Example1/Stringmanipulation-Example1.csproj" Id="ac2959e1-9124-4840-97ac-c4e426f57490" />
   <Project Path="VariablesAndExpressions/VariablesAndExpressions.csproj" />
 </Solution>
