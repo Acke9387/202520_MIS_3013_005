@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Conditional_Coin_Toss/Conditional_Coin_Toss.csproj" />
   <Project Path="Loops_Bank-Account-Balance/Loops_Bank-Account-Balance.csproj" Id="17f28735-dc59-4dc0-92a4-eb3144f5a4cb" />
+  <Project Path="Loops_Break-Even/Loops_Break-Even.csproj" Id="f1f9775b-8fc4-41b5-be29-52f94321fb41" />
   <Project Path="Loops_Guess-A-Number/Loops_Guess-A-Number.csproj" Id="d93644a1-9950-4199-b209-16810113fd92" />
 </Solution>
