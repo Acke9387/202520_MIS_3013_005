@@ -42,3 +42,16 @@ if (Console.ReadLine().ToLower() == "yes")
     }
 
 }
+
+
+Console.WriteLine("What student do you want to look up, please enter their id <<");
+int idToLookUp = int.Parse(Console.ReadLine());
+
+for (int x = 0; x < ids.Count; x++)
+{
+    if (ids[x] == idToLookUp)
+    {
+        Console.WriteLine($"Student {ids[x]} has a grade of {exams[x]}");
+        break;
+    }
+}

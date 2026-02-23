@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Collections_Arrays/Collections_Arrays.csproj" Id="9f030577-ee04-4b08-b55b-60510b6e112f" />
+  <Project Path="Collections_Dictionary/Collections_Dictionary.csproj" Id="01652b73-c1bc-42cc-bcd6-376c389466ff" />
   <Project Path="Collections_Lists/Collections_Lists.csproj" Id="31d8c0e6-8984-4030-acac-a61ab84ee97d" />
   <Project Path="Conditional_Example2/Conditional_Example2.csproj" Id="917cc894-c297-4d76-b8d6-df476416d17a" />
   <Project Path="Loops_For/Loops_For.csproj" Id="b7b66726-3dc2-4a39-a153-67e3ee70f883" />
