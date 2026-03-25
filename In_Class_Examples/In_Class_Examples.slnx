@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Classes_Rectangle-and-Circle/Classes_Rectangle-and-Circle.csproj" Id="e3da30ff-774b-42f4-9cf5-240ec5c89fee" />
   <Project Path="Collections_Arrays/Collections_Arrays.csproj" Id="9f030577-ee04-4b08-b55b-60510b6e112f" />
   <Project Path="Collections_Dictionary/Collections_Dictionary.csproj" Id="01652b73-c1bc-42cc-bcd6-376c389466ff" />
   <Project Path="Collections_Lists/Collections_Lists.csproj" Id="31d8c0e6-8984-4030-acac-a61ab84ee97d" />
