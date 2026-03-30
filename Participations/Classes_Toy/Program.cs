@@ -25,7 +25,8 @@ toys.Add(t2);
 
 
 
-
+// Make sure to create the new instance of Toy inside the loop so you don't
+// keep editing the same one and adding it multiple times
 //while (true)
 //{
 //    Toy t = new Toy();
