@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Classes_Easterbunny/Classes_Easterbunny.csproj" Id="b53ec650-1765-45d5-8bc7-b10f55a0a695" />
   <Project Path="Classes_Toy/Classes_Toy.csproj" Id="e2fad319-47a2-4939-acca-3e0d1a173a6e" />
   <Project Path="Classes_Toybox/Classes_Toybox.csproj" Id="99822d6f-8fa3-4077-a308-98a4c9b57c8e" />
   <Project Path="Collections_Dictionary/Collections_Dictionary.csproj" Id="46dbb265-a08c-4881-a1bc-5984025c1031" />
