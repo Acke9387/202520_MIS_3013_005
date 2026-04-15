@@ -27,5 +27,9 @@ namespace File_IO
             return $"{full_name} was born on {birthdate.ToShortDateString()} and lives in {city}. You can contact them at {email}.";
         }
 
+        public string ToCSV()
+        {
+            return $"{full_name},{gender},{birthdate.ToShortDateString()},{email},{city}";
+        }
     }
 }
