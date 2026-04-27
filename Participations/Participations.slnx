@@ -10,6 +10,7 @@
   <Project Path="Conditional_Coin_Toss/Conditional_Coin_Toss.csproj" />
   <Project Path="Functions_Calculator/Functions_Calculator.csproj" Id="953597f6-d400-42ce-b230-7d2d313ede48" />
   <Project Path="Functions_Grade-Calculator/Functions_Grade-Calculator.csproj" Id="59741a8a-b5c1-4b89-8f31-66d784173d98" />
+  <Project Path="JSON_From-A-File/JSON_From-A-File.csproj" Id="51146166-3ade-4034-bdb6-4870c621c32e" />
   <Project Path="Loops_Bank-Account-Balance/Loops_Bank-Account-Balance.csproj" Id="17f28735-dc59-4dc0-92a4-eb3144f5a4cb" />
   <Project Path="Loops_Break-Even/Loops_Break-Even.csproj" Id="f1f9775b-8fc4-41b5-be29-52f94321fb41" />
   <Project Path="Loops_Guess-A-Number/Loops_Guess-A-Number.csproj" Id="d93644a1-9950-4199-b209-16810113fd92" />
