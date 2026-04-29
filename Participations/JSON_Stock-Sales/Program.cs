@@ -34,13 +34,24 @@ switch (choice)
         {
             if (stock.IsProfit())
             {
-                Console.WriteLine(stock); 
+                Console.WriteLine(stock);
             }
         }
-
-
         break;
     default:
         Console.WriteLine("Invalid choice.");
         break;
+}
+
+if (choice == 1)
+{
+
+}
+else if (choice == 2)
+{
+
+}
+else if (choice == 3)
+{
+
 }
